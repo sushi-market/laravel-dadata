@@ -20,13 +20,6 @@
 composer require sushi-market/laravel-dadata
 ```
 
-```shell script
-'providers' => [
-  // ...
-  SushiMarket\DaData\DaDataServiceProvider::class,
-],
-
-``` 
 
 Публикация конфигурационного файла. Выполните `artisan` команду
 
