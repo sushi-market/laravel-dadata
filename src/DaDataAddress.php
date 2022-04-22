@@ -1,12 +1,12 @@
 <?php
 
-namespace MoveMoveIo\DaData;
+namespace SushiMarket\DaData;
 
-use MoveMoveIo\DaData\Enums\Language;
+use SushiMarket\DaData\Enums\Language;
 
 /**
  * Class DaDataAddress
- * @package MoveMoveIo\DaData
+ * @package SushiMarket\DaData
  */
 class DaDataAddress extends DaDataService
 {

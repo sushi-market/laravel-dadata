@@ -1,8 +1,8 @@
 <?php
 
-namespace MoveMoveIo\DaData\Tests;
+namespace SushiMarket\DaData\Tests;
 
-use MoveMoveIo\DaData\Facades\DaDataAddress;
+use SushiMarket\DaData\Facades\DaDataAddress;
 
 class DaDataAddressTest extends TestCase
 {

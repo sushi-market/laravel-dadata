@@ -1,13 +1,13 @@
 <?php
 
-namespace MoveMoveIo\DaData;
+namespace SushiMarket\DaData;
 
-use MoveMoveIo\DaData\Providers\CleanerDaDataProvider;
-use MoveMoveIo\DaData\Providers\SuggestDaDataProvider;
+use SushiMarket\DaData\Providers\CleanerDaDataProvider;
+use SushiMarket\DaData\Providers\SuggestDaDataProvider;
 
 /**
  * Class DaDataService
- * @package MoveMoveIo\DaData
+ * @package SushiMarket\DaData
  */
 class DaDataService
 {

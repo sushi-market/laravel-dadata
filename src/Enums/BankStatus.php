@@ -1,10 +1,10 @@
 <?php
 
-namespace MoveMoveIo\DaData\Enums;
+namespace SushiMarket\DaData\Enums;
 
 /**
  * Class BankStatus
- * @package MoveMoveIo\DaData\Enums
+ * @package SushiMarket\DaData\Enums
  */
 class BankStatus extends CompanyStatus
 {

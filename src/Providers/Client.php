@@ -1,6 +1,6 @@
 <?php
 
-namespace MoveMoveIo\DaData\Providers;
+namespace SushiMarket\DaData\Providers;
 
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Facades\Http;
@@ -8,7 +8,7 @@ use Symfony\Component\HttpFoundation\Response as ResponseCode;
 
 /**
  * Trait Client
- * @package MoveMoveIo\DaData\Providers
+ * @package SushiMarket\DaData\Providers
  */
 trait Client
 {

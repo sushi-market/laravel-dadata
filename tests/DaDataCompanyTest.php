@@ -1,15 +1,15 @@
 <?php
 
-namespace MoveMoveIo\DaData\Tests;
+namespace SushiMarket\DaData\Tests;
 
-use MoveMoveIo\DaData\Enums\BranchType;
-use MoveMoveIo\DaData\Enums\CompanyStatus;
-use MoveMoveIo\DaData\Enums\CompanyType;
-use MoveMoveIo\DaData\Facades\DaDataCompany;
+use SushiMarket\DaData\Enums\BranchType;
+use SushiMarket\DaData\Enums\CompanyStatus;
+use SushiMarket\DaData\Enums\CompanyType;
+use SushiMarket\DaData\Facades\DaDataCompany;
 
 /**
  * Class DaDataCompanyTest
- * @package MoveMoveIo\DaData\Tests
+ * @package SushiMarket\DaData\Tests
  */
 class DaDataCompanyTest extends TestCase
 {

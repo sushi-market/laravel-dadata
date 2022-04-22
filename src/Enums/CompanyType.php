@@ -1,6 +1,6 @@
 <?php
 
-namespace MoveMoveIo\DaData\Enums;
+namespace SushiMarket\DaData\Enums;
 
 /**
  * Class CompanyType

@@ -1,15 +1,15 @@
 <?php
 
-namespace MoveMoveIo\DaData;
+namespace SushiMarket\DaData;
 
-use MoveMoveIo\DaData\Enums\BranchType;
-use MoveMoveIo\DaData\Enums\CompanyScope;
-use MoveMoveIo\DaData\Enums\CompanyStatus;
-use MoveMoveIo\DaData\Enums\CompanyType;
+use SushiMarket\DaData\Enums\BranchType;
+use SushiMarket\DaData\Enums\CompanyScope;
+use SushiMarket\DaData\Enums\CompanyStatus;
+use SushiMarket\DaData\Enums\CompanyType;
 
 /**
  * Class DaDataPhone
- * @package MoveMoveIo\DaData
+ * @package SushiMarket\DaData
  */
 class DaDataCompany extends DaDataService
 {

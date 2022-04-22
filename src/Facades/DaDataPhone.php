@@ -1,13 +1,13 @@
 <?php
 
-namespace MoveMoveIo\DaData\Facades;
+namespace SushiMarket\DaData\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
  * Class DaDataPhone
- * @package MoveMoveIo\DaData\Facades
- * @method \MoveMoveIo\DaData\DaDataPhone standardization(string $phone)
+ * @package SushiMarket\DaData\Facades
+ * @method \SushiMarket\DaData\DaDataPhone standardization(string $phone)
  */
 class DaDataPhone extends Facade
 {

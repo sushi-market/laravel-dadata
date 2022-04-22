@@ -1,14 +1,14 @@
 <?php
 
-namespace MoveMoveIo\DaData;
+namespace SushiMarket\DaData;
 
-use MoveMoveIo\DaData\Enums\BankStatus;
-use MoveMoveIo\DaData\Enums\BankType;
-use MoveMoveIo\DaData\Enums\CompanyType;
+use SushiMarket\DaData\Enums\BankStatus;
+use SushiMarket\DaData\Enums\BankType;
+use SushiMarket\DaData\Enums\CompanyType;
 
 /**
  * Class DaDataBank
- * @package MoveMoveIo\DaData
+ * @package SushiMarket\DaData
  */
 class DaDataBank extends DaDataService
 {

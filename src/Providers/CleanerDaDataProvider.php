@@ -1,10 +1,10 @@
 <?php
 
-namespace MoveMoveIo\DaData\Providers;
+namespace SushiMarket\DaData\Providers;
 
 /**
  * Class CleanerDaDataProvider
- * @package MoveMoveIo\DaData\Providers
+ * @package SushiMarket\DaData\Providers
  */
 class CleanerDaDataProvider
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace MoveMoveIo\DaData\Enums;
+namespace SushiMarket\DaData\Enums;
 
 /**
  * Class Language
- * @package MoveMoveIo\DaData\Enums
+ * @package SushiMarket\DaData\Enums
  */
 class Language
 {

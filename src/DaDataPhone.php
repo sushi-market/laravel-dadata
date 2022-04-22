@@ -1,10 +1,10 @@
 <?php
 
-namespace MoveMoveIo\DaData;
+namespace SushiMarket\DaData;
 
 /**
  * Class DaDataPhone
- * @package MoveMoveIo\DaData
+ * @package SushiMarket\DaData
  */
 class DaDataPhone extends DaDataService
 {

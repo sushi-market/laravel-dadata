@@ -1,15 +1,15 @@
 <?php
 
-namespace MoveMoveIo\DaData\Tests;
+namespace SushiMarket\DaData\Tests;
 
-use MoveMoveIo\DaData\Enums\Gender;
-use MoveMoveIo\DaData\Enums\Parts;
-use MoveMoveIo\DaData\Facades\DaDataName;
-use MoveMoveIo\DaData\Facades\DaDataPassport;
+use SushiMarket\DaData\Enums\Gender;
+use SushiMarket\DaData\Enums\Parts;
+use SushiMarket\DaData\Facades\DaDataName;
+use SushiMarket\DaData\Facades\DaDataPassport;
 
 /**
  * Class DaDataPassportTest
- * @package MoveMoveIo\DaData\Tests
+ * @package SushiMarket\DaData\Tests
  */
 class DaDataPassportTest extends TestCase
 {

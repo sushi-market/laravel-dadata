@@ -1,13 +1,13 @@
 <?php
 
-namespace MoveMoveIo\DaData;
+namespace SushiMarket\DaData;
 
-use MoveMoveIo\DaData\Enums\Gender;
-use MoveMoveIo\DaData\Enums\Parts;
+use SushiMarket\DaData\Enums\Gender;
+use SushiMarket\DaData\Enums\Parts;
 
 /**
  * Class DaDataName
- * @package MoveMoveIo\DaData
+ * @package SushiMarket\DaData
  */
 class DaDataName extends DaDataService
 {

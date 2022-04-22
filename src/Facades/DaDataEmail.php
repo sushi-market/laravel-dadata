@@ -1,14 +1,14 @@
 <?php
 
-namespace MoveMoveIo\DaData\Facades;
+namespace SushiMarket\DaData\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
  * Class DaDataEmail
- * @package MoveMoveIo\DaData\Facades
- * @method \MoveMoveIo\DaData\DaDataEmail standardization(string $email)
- * @method \MoveMoveIo\DaData\DaDataEmail prompt(string $email, int $count)
+ * @package SushiMarket\DaData\Facades
+ * @method \SushiMarket\DaData\DaDataEmail standardization(string $email)
+ * @method \SushiMarket\DaData\DaDataEmail prompt(string $email, int $count)
  */
 class DaDataEmail extends Facade
 {

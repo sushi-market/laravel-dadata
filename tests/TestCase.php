@@ -1,6 +1,6 @@
 <?php
 
-namespace MoveMoveIo\DaData\Tests;
+namespace SushiMarket\DaData\Tests;
 
 class TestCase extends \Orchestra\Testbench\TestCase
 {
@@ -8,20 +8,20 @@ class TestCase extends \Orchestra\Testbench\TestCase
     protected function getPackageProviders($app)
     {
         return [
-            'MoveMoveIo\DaData\DaDataServiceProvider'
+            'SushiMarket\DaData\DaDataServiceProvider'
         ];
     }
 
     protected function getPackageAliases($app)
     {
         return [
-            'DaDataAddress'    => 'MoveMoveIo\DaData\Facades\DaDataAddress',
-            'DaDataName'       => 'MoveMoveIo\DaData\Facades\DaDataName',
-            'DaDataEmail'      => 'MoveMoveIo\DaData\Facades\DaDataEmail',
-            'DaDataPhone'      => 'MoveMoveIo\DaData\Facades\DaDataPhone',
-            'DaDataCompany'    => 'MoveMoveIo\DaData\Facades\DaDataCompany',
-            'DaDataBank'       => 'MoveMoveIo\DaData\Facades\DaDataBank',
-            'DaDataPassport'   => 'MoveMoveIo\DaData\Facades\DaDataPassport',
+            'DaDataAddress'    => 'SushiMarket\DaData\Facades\DaDataAddress',
+            'DaDataName'       => 'SushiMarket\DaData\Facades\DaDataName',
+            'DaDataEmail'      => 'SushiMarket\DaData\Facades\DaDataEmail',
+            'DaDataPhone'      => 'SushiMarket\DaData\Facades\DaDataPhone',
+            'DaDataCompany'    => 'SushiMarket\DaData\Facades\DaDataCompany',
+            'DaDataBank'       => 'SushiMarket\DaData\Facades\DaDataBank',
+            'DaDataPassport'   => 'SushiMarket\DaData\Facades\DaDataPassport',
         ];
     }
 

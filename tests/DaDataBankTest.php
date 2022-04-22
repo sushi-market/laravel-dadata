@@ -1,14 +1,14 @@
 <?php
 
-namespace MoveMoveIo\DaData\Tests;
+namespace SushiMarket\DaData\Tests;
 
-use MoveMoveIo\DaData\Enums\BankStatus;
-use MoveMoveIo\DaData\Enums\BankType;
-use MoveMoveIo\DaData\Facades\DaDataBank;
+use SushiMarket\DaData\Enums\BankStatus;
+use SushiMarket\DaData\Enums\BankType;
+use SushiMarket\DaData\Facades\DaDataBank;
 
 /**
  * Class DaDataBankTest
- * @package MoveMoveIo\DaData\Tests
+ * @package SushiMarket\DaData\Tests
  */
 class DaDataBankTest extends TestCase
 {
