@@ -17,7 +17,7 @@
     ],
     "type": "laravel-package",
     "license": "MIT",
-    "version": "1.0.8",
+    "version": "2.0.1",
     "authors": [
         {
             "name": "Dmitry Kovalev aka Pipisco",
@@ -38,8 +38,9 @@
         }
     },
     "require": {
-        "php": "^7.3|^8",
-        "guzzlehttp/guzzle": "^7.0"
+        "php": ">=7.3|8.0|8.1",
+        "guzzlehttp/guzzle": "^7.0",
+        "laravel/framework": "8.75.0 - 9.0.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.4.0",
