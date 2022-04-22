@@ -3,7 +3,7 @@
 <p align="center">
 
 <a href="https://github.com/sushi-market/laravel-dadata/releases"><img src="https://img.shields.io/github/release/sushi-market/laravel-dadata.svg?style=flat-square" alt="Latest Version"></a>
-<a href="https://packagist.org/packages/denis660/laravel-dadata"><img src="https://img.shields.io/packagist/dt/denis660/laravel-dadata.svg?style=flat-square" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/sushi-market/laravel-dadata"><img src="https://img.shields.io/packagist/dt/sushi-market/laravel-dadata.svg?style=flat-square" alt="Total Downloads"></a>
 <a href="https://github.com/sushi-market/laravel-dadata/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Software License"></a>
 </p>
 
