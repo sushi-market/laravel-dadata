@@ -10,7 +10,7 @@
 
 ## Requirements
 - PHP >= 7.4 , 8.0, 8.1
-- Laravel 8.75.0 - 9.0
+- Laravel 8.75.0 - 10.0
 - guzzlehttp/guzzle 7
 
 ## Установка
