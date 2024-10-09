@@ -20,7 +20,6 @@
 composer require sushi-market/laravel-dadata
 ```
 
-
 Публикация конфигурационного файла. Выполните `artisan` команду
 
 ```shell script
