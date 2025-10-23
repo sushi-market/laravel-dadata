@@ -17,7 +17,6 @@
   ],
   "type": "laravel-package",
   "license": "MIT",
-  "version": "3.1.0",
   "authors": [
     {
       "name": "Dmitry Kovalev aka Pipisco",
